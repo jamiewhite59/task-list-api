@@ -61,9 +61,9 @@ This project demonstrates basic GraphQL schema design and mutation/query handlin
 
 ### Clone the repository
 
-``git clone https://github.com/yourusername/fastapi-graphql-tasks.git``
+``git clone git@github.com:jamiewhite59/task-list-api.git``
 
-``cd fastapi-graphql-tasks``
+``cd task-list-api``
 
 
 
